@@ -1,0 +1,8 @@
+Scan Report
+Target: scanme.nmap.org
+Time: 2026-06-28 17:51:07.073532
+Open Ports: 3
+--------------------------------------------------
+[OPEN] Port 21 --> FTP
+[OPEN] Port 22 --> SSH
+[OPEN] Port 80 --> HTTP
